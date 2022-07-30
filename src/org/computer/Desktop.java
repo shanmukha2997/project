@@ -8,7 +8,7 @@ public class Desktop extends Computer {
 		Desktop d = new Desktop();
 		d.desktopSize();
 		d.computerModel1();
-		
+System.out.println("new message");
 	}
 
 }
